@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Pegasus",
+        "image": "https://www.pngkey.com/png/detail/384-3843575_saint-seiya-wall-scroll.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Cygnus Hyoga",
+        "image": "https://sscfdb.com/resources/10004401.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Shun of Adromeda",
+        "image": "https://i.pinimg.com/originals/2f/57/73/2f57734b82e2601084408d00ee2c32af.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Phoenix Ikki",
+        "image": "https://i.pinimg.com/originals/99/98/f0/9998f00decef665ec1abe068abd85649.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Dragon Shiryu",
+        "image": "https://i.pinimg.com/originals/8e/21/6e/8e216ee43c048e49531d21257accf616.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Athena",
+        "image": "https://rei.animecharactersdatabase.com/uploads/chars/12602-819988695.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Hades",
+        "image": "http://www.pharaonwebsite.com/users/trident/fanarts/Saint_Seiya/0Blank/Hades.png",
+        "count": 0 
+    },
+    {
+        "id": 7,
+        "name": "Thanatos",
+        "image": "https://i0.wp.com/saint-seiya-gold.com/wp-content/uploads/2016/05/Thanatos.jpg?ssl=1",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Libra Dohko",
+        "image": "https://i.pinimg.com/originals/6f/b4/df/6fb4dfbf516f2355e5d2c3de795bf7c4.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Taurus Aldebaran",
+        "image": "https://vignette.wikia.nocookie.net/saintseiya/images/2/2a/Gold_Taurus_Aldebaran.jpeg/revision/latest?cb=20130521111326",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Aries Mu",
+        "image": "https://banner2.kisspng.com/20180405/whq/kisspng-aries-mu-pegasus-seiya-aries-shion-libra-dohko-leo-aries-5ac6ae0729c8d7.3679442815229701191712.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Hypnos",
+        "image": "https://vignette.wikia.nocookie.net/world-war-fan-fiction-series/images/7/71/Hypnos.png/revision/latest?cb=20180819235155",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Pandora",
+        "image": "https://vignette.wikia.nocookie.net/jadensadventures/images/e/ee/Pandora_by_javiiit0-d3892by.jpg/revision/latest?cb=20130203200446",
+        "count": 0
+    }
+]
